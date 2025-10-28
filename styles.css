@@ -210,6 +210,7 @@ Your Playground (Make customizations and changes below)
 *****************************************************************/
 
 body {
+<<<<<<< Updated upstream
     background: url(./assets/namine-kingdom-hearts.gif) repeat;
     color: white;
     text-shadow: 4px 4px 10px blueviolet;
@@ -226,10 +227,28 @@ body {
     width: 85%;
 }
 
+=======
+    background-color: #010B12; /* Change background color */
+}
+
+/************************    navbar   ***************************/
+
+nav {
+       background-color: #0C8900;
+       border-bottom: 2px solid #2BC20E;
+}
+
+nav img {
+    border: #555D58 dotted 2px;
+>>>>>>> Stashed changes
 
 
 nav ul li a {
     text-decoration: none;
+<<<<<<< Updated upstream
+=======
+    color: #9CFF00;
+>>>>>>> Stashed changes
     font-weight: bold;
 }
 
@@ -242,6 +261,10 @@ ul li {
 
 ul li a {
     text-decoration: none;
+<<<<<<< Updated upstream
+=======
+    color: #9CFF00;
+>>>>>>> Stashed changes
     font-weight: bold;
     color: inherit;
 }
@@ -272,27 +295,58 @@ ul li a:hover {
 
 /***********************    sidebar styles   ********************/
 
+<<<<<<< Updated upstream
 
 
 .bio-sidebar .bio,
 .bio-sidebar .links{
     border-bottom: white dotted 2px;
+=======
+.bio-sidebar {
+    border:#555D58 dotted 2px;
+}
+
+.bio-sidebar .bio,
+.bio-sidebar .links{
+    border-bottom: #555D58 dotted 2px;
+>>>>>>> Stashed changes
 }
 
 /***********************    main styles   ***********************/
 
+<<<<<<< Updated upstream
  .main-section .posts div > p{
     background: transparent;
+=======
+.main-section section {
+    border: #555D58 dotted 2px; 
+}
+
+.main-section .posts div {
+    border: #555D58 dotted 2px;
+>>>>>>> Stashed changes
 }
 
 
 /************************    bio styles   ***********************/
 
 .bio img {
-    border:#333333 dotted 2px;
+    border:#555D58 dotted 2px;
 }
 
 /**********************    aboutme styles   *********************/
+<<<<<<< Updated upstream
+=======
+.about-me .about-me-text *{
+    border:#555D58 dotted 2px;
+}
+
+/*********************    friends     *********************/
+
+.friends img {
+    border: #555D58 dotted 2px;
+}
+>>>>>>> Stashed changes
 
 
 .main-section img,
