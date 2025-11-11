@@ -209,7 +209,7 @@ Your Playground (Make customizations and changes below)
 *****************************************************************/
 
 body {
-    background-color: #010101; /* Change background color */
+    background-color: #fff8ed; /* Change background color */
 }
 
 /************************    navbar   ***************************/
@@ -239,47 +239,47 @@ ul li {
 
 ul li a {
     text-decoration: none;
-    color: #686868;
+    color: #423030;
     font-weight: bold;
 }
 
 /***********************    sidebar styles   ********************/
 
 .bio-sidebar {
-    border:#686868 dotted 2px;
+    border:#423030 dotted 2px;
 }
 
 .bio-sidebar .bio,
 .bio-sidebar .links{
-    border-bottom: #686868 dotted 2px;
+    border-bottom: #423030 dotted 2px;
 }
 
 /***********************    main styles   ***********************/
 
 .main-section section {
-    border: #686868 dotted 2px; 
+    border: #423030 dotted 2px; 
 }
 
 .main-section .posts div {
-    border: #686868 dotted 2px;
+    border: #423030 dotted 2px;
 }
 
 
 /************************    bio styles   ***********************/
 
 .bio img {
-    border:#686868 dotted 2px;
+    border:#423030 dotted 2px;
 }
 
 /**********************    aboutme styles   *********************/
 .about-me .about-me-text *{
-    border:#686868 dotted 2px;
+    border:#423030 dotted 2px;
 }
 
 /*********************    friends     *********************/
 
 .friends img {
-    border: #686868 dotted 2px;
+    border: #423030 dotted 2px;
 }
 
 
