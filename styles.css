@@ -226,7 +226,7 @@ nav img {
 
 nav ul li a {
     text-decoration: none;
-    color: #025B18;
+    color: #EA701F;
     font-weight: bold;
 }
 
@@ -234,12 +234,12 @@ nav ul li a {
 
 ul li {
     list-style-type: none;
+    color: #09255D;
     padding: 14px 20px;
 }
 
 ul li a {
     text-decoration: none;
-    color: #EA701F;
     font-weight: bold;
 }
 
