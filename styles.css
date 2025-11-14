@@ -209,14 +209,14 @@ Your Playground (Make customizations and changes below)
 *****************************************************************/
 
 body {
-    background-color: #fff8ed; /* Change background color */
+    background-color: #ebe9e3; /* Change background color */
 }
 
 /************************    navbar   ***************************/
 
 nav {
-       background-color: #1FC742;
-       border-bottom: 2px solid #025B18;
+       background-color: #e2ded8;
+       border-bottom: 2px solid #d6d4d0;
 }
 
 nav img {
@@ -239,7 +239,7 @@ ul li {
 
 ul li a {
     text-decoration: none;
-    color: #423030;
+    color: #EA701F;
     font-weight: bold;
 }
 
