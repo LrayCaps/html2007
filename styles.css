@@ -15,7 +15,6 @@ body {
     padding: 0;
     }
 
-
 /*********************    nav bar structure   *******************/
 .navbar {
     display: flex;
@@ -221,7 +220,7 @@ nav {
 }
 
 nav img {
-    border: #686868 dotted 2px;
+    border: #e2ded8 dotted 2px;
 
 }
 
@@ -247,12 +246,12 @@ ul li a {
 /***********************    sidebar styles   ********************/
 
 .bio-sidebar {
-    border:#423030 dotted 2px;
+    border:#EA701F dotted 2px;
 }
 
 .bio-sidebar .bio,
 .bio-sidebar .links{
-    border-bottom: #423030 dotted 2px;
+    border-bottom: #EA701F dotted 2px;
 }
 
 /***********************    main styles   ***********************/
