@@ -212,6 +212,10 @@ body {
     color: #423030;
 }
 
+.cursor {
+    cursor: url("Assets/Photos/LOGO.png");
+}
+
 /************************    navbar   ***************************/
 
 nav {
