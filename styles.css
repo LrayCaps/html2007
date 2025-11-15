@@ -210,11 +210,12 @@ Your Playground (Make customizations and changes below)
 body {
     background-color: #ebe9e3; /* Change background color */
     color: #423030;
+    cursor: url("../Assets/Photos/CURSOR1.png"), auto;
 }
 
-.cursor {
-    cursor: url("Assets/Photos/LOGO.png");
-}
+a:hover{
+    cursor: url("../Assets/Photos/CURSOR2.png"), auto;
+ }
 
 /************************    navbar   ***************************/
 
